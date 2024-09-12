@@ -1,0 +1,112 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Chandan Kumar",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "When is next python batch?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "name": "Abc",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "what is timing of python batch?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "3",
+      "name": "Chandan Kumar1",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "Please share contact details of yukti softwares?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "4",
+      "name": "Devanshu",
+      "mobile": "+91 9876543210",
+      "emailId": "Devanshu@gmail.com",
+      "query": "Timing for internship batch?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "5",
+      "name": "Devanshu",
+      "mobile": "+9112",
+      "emailId": "abc@gmail.com",
+      "query": "Internship batch time",
+      "reply": "",
+      "status": ""
+    },
+    {
+      "id": "7",
+      "name": "abc",
+      "mobile": "+098876763",
+      "emailId": "abc@gmail.com",
+      "query": "New Batch",
+      "reply": "",
+      "status": ""
+    },
+    {
+      "id": "8",
+      "name": "Chadan Kumar",
+      "mobile": "+91 9654321",
+      "emailId": "def@gmail.com",
+      "query": "Do we have any weekend batch?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "9",
+      "name": "Chadan Kumar",
+      "mobile": "+91 9654321",
+      "emailId": "aaa",
+      "query": "sv",
+      "reply": "",
+      "status": ""
+    },
+    {
+      "id": "1",
+      "name": "Chandan Kumar",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "New query When is next python batch?",
+      "reply": "",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "name": "Abc",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "what is timing of python batch?",
+      "reply": "Morning",
+      "status": "open"
+    },
+    {
+      "id": "1",
+      "name": "Chandan Kumar",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "New query When is next python batch?",
+      "reply": "Morning batch",
+      "status": "open"
+    },
+    {
+      "id": "1",
+      "name": "Chandan Kumar",
+      "mobile": "+91 9876543210",
+      "emailId": "abc@gmail.com",
+      "query": "New query When is next python batch?",
+      "reply": "Morning batch",
+      "status": "close"
+    }
+  ]
+}
